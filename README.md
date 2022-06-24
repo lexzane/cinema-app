@@ -2,8 +2,8 @@
 
 ### Project description:
 
-This is a basic implementation of a cinema online shop, created using Spring and Hibernate frameworks, database usage and REST principles and supports registration, authentication and other CRUD operations.
-All data is displayed to user in JSON format.
+`This is a basic implementation of a cinema online shop, created using Spring and Hibernate frameworks, database usage and REST principles and supports registration, authentication and other CRUD operations.
+All data is displayed to user in JSON format.`
 
 ### Features:
 
